@@ -1,6 +1,6 @@
 et-xmlfile==1.0.1
 jdcal==1.4.1
-joblib==0.14.1
+joblib==1.2.0
 JPype1==0.7.2
 numpy==1.18.2
 openpyxl==3.0.3
